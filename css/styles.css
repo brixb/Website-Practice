@@ -100,3 +100,9 @@ p {
     background-color: #ef8172;
     color: #fff;
 }
+
+.testimonial-image {
+    width: 15%;
+    border-radius: 100%;
+    margin: 20px;
+}
