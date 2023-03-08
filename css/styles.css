@@ -69,6 +69,7 @@ p {
     width: 60%;
     transform: rotate(15deg);
     z-index: -1;
+    position: absolute;
 
 }
 
