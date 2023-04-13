@@ -28,6 +28,7 @@ p {
 #title {
     background-color: #ff4c68;
     color: #fff;
+    text-align: left;
 }
 
 .container-fluid {
